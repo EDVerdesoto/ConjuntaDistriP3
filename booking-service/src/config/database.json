@@ -1,0 +1,20 @@
+{
+  "development": {
+    "username": "booking",
+    "password": "booking123",
+    "database": "bookingdb",
+    "host": "postgres",
+    "port": 5432,
+    "dialect": "postgres",
+    "logging": false
+  },
+  "production": {
+    "username": "booking",
+    "password": "booking123",
+    "database": "bookingdb",
+    "host": "postgres",
+    "port": 5432,
+    "dialect": "postgres",
+    "logging": false
+  }
+}
